@@ -1,6 +1,6 @@
 FROM java:8
 
-MAINTAINER Marcel Birkner <marcel.birkner@codecentric.de>
+MAINTAINER Bousselmi Houssem Eddine bousselmi.houssem@gmail.com
 
 VOLUME /tmp
 
